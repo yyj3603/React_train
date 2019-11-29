@@ -1,2 +1,4 @@
 # react-train
-首页为dist/index.html
+https://yyj3603.github.io/react-train/dist
+
+https://yyj3603.github.io/react-train/public
